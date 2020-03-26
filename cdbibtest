@@ -1,0 +1,26 @@
+% 32185372 
+@Article{pmid32185372,
+   Author="Harris, D. R.  and Delcher, C. ",
+   Title="{bench4gis: {B}enchmarking {P}rivacy-aware {G}eocoding with {O}pen {B}ig {D}ata}",
+   Journal="Proc IEEE Int Conf Big Data",
+   Year="2019",
+   Volume="2019",
+   Pages="4067--4070",
+   Month="Dec",
+   Abstract={Geocoding, the process of translating addresses to geographic coordinates, is a relatively straight-forward and well-studied process, but limitations due to privacy concerns may restrict usage of geographic data. The impact of these limitations are further compounded by the scale of the data, and in turn, also limits viable geocoding strategies. For example, healthcare data is protected by patient privacy laws in addition to possible institutional regulations that restrict external transmission and sharing of data. This results in the implementation of "in-house" geocoding solutions where data is processed behind an organization's firewall; quality assurance for these implementations is problematic because sensitive data cannot be used to externally validate results. In this paper, we present our software framework called bench4gis which benchmarks privacy-aware geocoding solutions by leveraging open big data as surrogate data for quality assurance; the scale of open big data sets for address data can ensure that results are geographically meaningful for the locale of the implementing institution.},
+   DOI={10.1109/bigdata47090.2019.9006234}
+}
+
+% 32167991 
+@Article{pmid32167991,
+   Author="Delcher, C.  and Bae, J.  and Rich, S. N.  and Klann, E. M.  and Puttkammer, N.  and Joseph, N. ",
+   Title="{{I}mpact of the 12 {J}anuary 2010 earthquake on {H}{I}{V} case reporting in {H}aiti}",
+   Journal="AIDS",
+   Year="2020",
+   Volume="34",
+   Number="5",
+   Pages="777--782",
+   Month="Apr",
+   Abstract={To evaluate the impact of the 12 January 2010 earthquake on HIV cases from Haiti's national HIV surveillance system and assess the characteristics of people living with HIV 1-year before and after the earthquake.\\ An interrupted time-series design and cross-sectional analysis.\\ We used autoregressive integrated moving average structures to model abrupt changes to the monthly, incident HIV case counts from HIV care clinics as reported to the Haitian Active Longitudinal Tracking of HIV System (French acronym SALVH) by clinical networks (n = 3) and earthquake instrumental intensity zones (n = 4). Preearthquake and postearthquake differences in patient-level characteristics including clinical values were examined using the Ï‡ test, t tests, Wilcoxon rank-sum test.\\ In the month immediately following the earthquake, all three clinical networks experienced statistically significant declines in cases reported: iSantÃ© (-31.4%), Groupe HaÃ¯tien d'Etude du Sarcome de Kaposi et des Infections Opportunistes (-29.9%) and Zamni Lasante (-32.2%). Zone 8 (the most severe) was the only area with a statistically significant decline (-45.5%). Of the three clinical networks, only iSantÃ© returned to preearthquake reporting levels by the end of our study period. Patient-level characteristics did not change dramatically after the earthquake.\\ Despite case reporting declines, especially in clinics near the earthquake epicenter, SALVH remained intact with less impact than expected. This national system is a critical component of Haiti's strategic health information system initiative and plays a central role to HIV monitoring and evaluation efforts.},
+   Note={[DOI:\href{https://dx.doi.org/10.1097/QAD.0000000000002466}{10.1097/QAD.0000000000002466}] [PubMed:\href{https://www.ncbi.nlm.nih.gov/pubmed/32167991}{32167991}] }
+}
