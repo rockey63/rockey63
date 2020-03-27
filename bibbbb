@@ -573,16 +573,16 @@ url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5335794}
 }
 
 % 22306559 
-@Article{pmid22306559,
-   Author="Delcher, C.  and Wang, Y. ",
-   Title="{{R}e: "{L}ongitudinal health study of {U}{S} 1991 {G}ulf {W}ar veterans: changes in health status at 10-year follow-up"}",
-   Journal="Am. J. Epidemiol.",
-   Year="2012",
-   Volume="175",
-   Number="5",
-   Pages="473--474",
-   Month="Mar",
-   Url ={https://dx.doi.org/10.1093/aje/kwr499}
+@article{delcher2012re,
+  title={Re:“Longitudinal Health Study of US 1991 Gulf War Veterans: Changes in Health Status at 10-Year Follow-Up”},
+  author={Delcher, Chris and Wang, Yanning},
+  journal={American journal of epidemiology},
+  volume={175},
+  number={5},
+  pages={473--473},
+  year={2012},
+  publisher={Oxford University Press},
+Url ={https://dx.doi.org/10.1093/aje/kwr499}
 }
 
 % 18685545 
