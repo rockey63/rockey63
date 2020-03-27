@@ -115,19 +115,6 @@ Abstract={High-risk combinations of controlled medications, such as those involv
 
 }
 
-
-@Article{pmid31751873,
-   Author="Wang, Y.  and Delcher, C.  and Li, Y.  and Goldberger, B. A.  and Reisfield, G. M. ",
-   Title="{{O}verlapping prescriptions of opioids, benzodiazepines, and carisoprodol: "{H}oly {T}rinity" prescribing in the state of {F}lorida}",
-   Journal="Drug Alcohol Depend",
-   Year="2019",
-   Volume="205",
-   Pages="107693",
-   Month="Dec",
-   Abstract={High-risk combinations of controlled medications, such as those involving opioid analgesics, are under increased scrutiny because of their contribution to the opioid epidemic in the United States. Responsible prescribing guidelines indicate that the triple drug combination--opioids, benzodiazepines and skeletal muscle relaxants, especially carisoprodol--should not be concurrently prescribed.\\ This pharmacoepidemiologic study was designed to primarily examine the characteristics of patients receiving this triple combination compared to the group receiving only opioids and benzodiazepines.\\ Results show that, while the number of exposed patients has declined since 2012, approximately 17,000 Floridians were prescribed this combination in 2017 alone. Demographically, recipients of these prescriptions were younger, more likely to be female, and geographically-localized. Furthermore, these patients were more frequently associated with a prescriber in the top 1% of opioid and/or benzodiazepine prescribing, have more multiple provider episodes ("doctor shopping"), and receive higher mean daily opioid dosages.\\ These findings raise important questions as to how frequently prescribers are checking prescription drug monitoring programs, following US Centers for Disease Control and Prevention opioid prescribing guidelines, and/or handling the clinical challenges associated with pharmaceutical management of patients with complex, painful health conditions.},
-   url = {https://dx.doi.org/10.1016/j.drugalcdep.2019.107693}
-}
-
 % 31615364 
 @Article{pmid31615364,
    Author="Conner, K. L.  and Meadows, A. L.  and Delcher, C.  and Talbert, J. C. ",
