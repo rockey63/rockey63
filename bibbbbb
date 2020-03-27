@@ -597,3 +597,54 @@ Url ={https://dx.doi.org/10.1093/aje/kwr499}
    Month="Dec",
    Url ={https://dx.doi.org/10.1097/OLQ.0b013e318182a571}
 }
+
+% 27382656 
+@Article{pmid27382656,
+   Author="Stover, J. A.  and Kheirallah, K. A.  and Delcher, P. C.  and Dolan, C. B.  and Johnson, L. ",
+   Title="{{I}mproving {S}urveillance of {S}exually {T}ransmitted {D}iseases through {G}eocoded {M}orbidity {A}ssignment}",
+   Journal="Public Health Rep",
+   Year="2009",
+   Volume="124 Suppl 2",
+   Pages="65--71",
+   Abstract={We assessed the added value of using a geocoder to improve sexually transmitted disease (STD) surveillance data and decision support through redistribution of inaccurately assigned morbidity in Richmond, Virginia.\\ Virginia initiated geocoding of STD data as a data quality tool in 2002. Geocoded output files were assessed and discordant proportions of reported gonorrhea and chlamydia morbidity were reassigned appropriately for the city of Richmond, Chesterfield County, and Henrico County (2002 to 2006). We used Chi-square analysis to compare assignment proportions and calculated crude odds ratios for 2006 data to estimate increased case reassignment likelihood.\\ From 2002 to 2006, 149,229 cases of gonorrhea and chlamydia were reported within the Commonwealth of Virginia. Of the reported morbidity, 81% of cases (n=120,875) were successfully geocoded; 7% (n=8,461) of geocoded addresses were reassigned. Approximately 76% (n=6,412) of all reassigned cases occurred within Richmond and Chesterfield and Henrico counties. In 2006, 84% (n=654) of reassigned cases in this tri-city/county area were initially reported as Richmond morbidity. Data quality improvements reduced Richmond's artificially inflated morbidity by 18% and increased Chesterfield and Henrico morbidity by 17% and 55%, respectively. Richmond morbidity was three times more likely to be reassigned than Chesterfield cases (odds ratio [OR] = 2.93, 95% confidence interval [CI] 2.21, 3.90), and two times more likely than Henrico cases (OR=2.12, 95% CI 1.63, 2.76). Richmond's number one national rank for STD rates was reduced beginning in 2002.\\ Declining rates of STDs were statistically associated with geocoded morbidity reassignments. Implementation of this data quality business process has improved epidemiologic analyses, prevention planning, and assessment of resource allocations. The reduction in Richmond's national STD rankings is indicative of the effect geocoding can have on surveillance data.},
+url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775402}
+}
+
+% 27382655 
+@Article{pmid27382655,
+   Author="Bissette, J. M.  and Stover, J. A.  and Newman, L. M.  and Delcher, P. C.  and Bernstein, K. T.  and Matthews, L. ",
+   Title="{{A}ssessment of {G}eographic {I}nformation {S}ystems and {D}ata {C}onfidentiality {G}uidelines in {S}{T}{D} {P}rograms}",
+   Journal="Public Health Rep",
+   Year="2009",
+   Volume="124 Suppl 2",
+   Pages="58--64",
+   Abstract={Advancements in technology, such as geographic information systems (GIS), expand sexually transmitted disease (STD) program capacity for data analysis and visualization, and introduce additional confidentiality considerations. We developed a survey to examine GIS use among STD programs and to better understand existing data confidentiality practices.\\ A Web-based survey of eight to 22 questions, depending on program-specific GIS capacity, was e-mailed to all STD program directors through the National Coalition of STD Directors in November 2004. Survey responses were accepted until April 15, 2005.\\ Eighty-five percent of the 65 currently funded STD programs responded to the survey. Of those, 58% used GIS and 54% used geocoding. STD programs that did not use GIS (42%) identified lack of training and insufficient staff as primary barriers. Mapping, spatial analyses, and targeting program interventions were the main reasons for geocoding data. Nineteen of the 25 programs that responded to questions related to statistical disclosure rules employed a numerator rule, and 56% of those used a variation of the "Rule of 5." Of the 28 programs that responded to questions pertaining to confidentiality guidelines, 82% addressed confidentiality of GIS data informally.\\ Survey findings showed the increasing use of GIS and highlighted the struggles STD programs face in employing GIS and protecting confidentiality. Guidance related to data confidentiality and additional access to GIS software and training could assist programs in optimizing use of spatial data.},
+url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775401}
+}
+
+% 18287907 
+@Article{pmid18287907,
+   Author="Delcher, P. C.  and Edwards, K. T.  and Stover, J. A.  and Newman, L. M.  and Groseclose, S. L.  and Rajnik, D. M. ",
+   Title="{{D}ata suppression strategies used during surveillance data release by sexually transmitted disease prevention programs}",
+   Journal="J Public Health Manag Pract",
+   Year="2008",
+   Volume="14",
+   Number="2",
+   Pages="1--8",
+   Abstract={This study investigates the data suppression or statistical disclosure limitation (DL) practices used during surveillance data Release by sexually transmitted disease (STD) prevention programs.\\ We classified DL strategies from a Web-based data query system that collected data from state health departments. We tested mean STD incidence Rates in states that used data suppression versus those that did not.\\ Five types of DL were identified: no suppression (n = 15), numerator-only (n = 10), denominator-only (n = 6), demographic-only (n = 7), and mixed strategies (n = 12). Twenty-two states (62%) used data suppression strategies differently through time. Chlamydia, gonorrhea, and syphilis Rates were higher in the nonsuppression states than those of the suppression states (P = .03, P = .008, P = .009, Respectively).\\ Cell suppression is the preferred method of DL used by STD prevention programs. More Research is needed to evaluate the effectiveness of this strategy as a means of balancing the public health utility of the data tables and the protection of confidentiality.},
+url = {https://dx.doi.org/10.1097/01.PHH.0000311902.95948.f5}
+}
+
+% 21819850 
+@Article{pmid21819850,
+   Author="Maldonado-Molina, M. M.  and Reingle, J. M.  and Delcher, C.  and Branchini, J. ",
+   Title="{{T}he role of parental alcohol consumption on driving under the influence of alcohol: results from a longitudinal, nationally representative sample}",
+   Journal="Accid Anal Prev",
+   Year="2011",
+   Volume="43",
+   Number="6",
+   Pages="2182--2187",
+   Month="Nov",
+   Abstract={Many studies have examined the role of peer and parental alcohol use on drinking behaviors among adolescents. Few studies, however, have examined parental influences on driving under the influence (DUI) of alcohol. The current study uses data from a longitudinal study to examine the role of parental alcohol use during adolescence on the risk for DUI among young adult men and women.\\ Data were derived from 9559 adolescents and young adults who participated in the National Longitudinal Study of Adolescent Health (Add Health) Waves I and III. Survey logistic regression was used to examine the relationship between multilevel risk and protective factors and self-reported DUI. Analyses were stratified by gender and frequency of parental alcohol consumption to understand the role of parental alcohol use on risk for DUI among their youth.\\ Risk and protective factors for DUI were very similar among men and women. Parental alcohol use significantly predicted DUI among women (OR=1.39, p<0.01) and men (OR=1.33, p<0.05). When parents did not report alcohol use, peer alcohol use significantly increased risk for DUI for both women (OR=1.26, p<0.05) and men (OR=1.31, p<0.001). When parents reported alcohol use, however, peer alcohol use was not a significant independent predictor.\\ Findings suggest remarkable similarities in risk and protective factors for DUI across gender groups. For men and women, parental alcohol consumption was a risk factor for DUI. Peers' alcohol use predicted DUI only when parents did not use alcohol.},
+url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3154683}
+}
