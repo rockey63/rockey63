@@ -648,3 +648,81 @@ url = {https://dx.doi.org/10.1097/01.PHH.0000311902.95948.f5}
    Abstract={Many studies have examined the role of peer and parental alcohol use on drinking behaviors among adolescents. Few studies, however, have examined parental influences on driving under the influence (DUI) of alcohol. The current study uses data from a longitudinal study to examine the role of parental alcohol use during adolescence on the risk for DUI among young adult men and women.\\ Data were derived from 9559 adolescents and young adults who participated in the National Longitudinal Study of Adolescent Health (Add Health) Waves I and III. Survey logistic regression was used to examine the relationship between multilevel risk and protective factors and self-reported DUI. Analyses were stratified by gender and frequency of parental alcohol consumption to understand the role of parental alcohol use on risk for DUI among their youth.\\ Risk and protective factors for DUI were very similar among men and women. Parental alcohol use significantly predicted DUI among women (OR=1.39, p<0.01) and men (OR=1.33, p<0.05). When parents did not report alcohol use, peer alcohol use significantly increased risk for DUI for both women (OR=1.26, p<0.05) and men (OR=1.31, p<0.001). When parents reported alcohol use, however, peer alcohol use was not a significant independent predictor.\\ Findings suggest remarkable similarities in risk and protective factors for DUI across gender groups. For men and women, parental alcohol consumption was a risk factor for DUI. Peers' alcohol use predicted DUI only when parents did not use alcohol.},
 url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3154683}
 }
+
+% 29402676
+@article{pauly2018features,
+  title={Features of prescription drug monitoring programs associated with reduced rates of prescription opioid-related poisonings},
+  author={Pauly, NJ and Slavova, S and Delcher, C and Freeman, PR and Talbert, J},
+  journal={Drug and alcohol dependence},
+  volume={184},
+  pages={26--32},
+  year={2018},
+  publisher={Elsevier},
+  abstract = {BACKGROUND: The United States is in the midst of an opioid epidemic. 
+In addition to other system-level interventions, all states have responded
+      during the crisis by implementing prescription drug monitoring programs
+      (PDMPs). This study examines associations between specific administrative
+      features of PDMPs and changes in the risk of prescription opioid-related
+      poisoning (RxORP) over time. METHODS: This longitudinal, observational
+      study utilized a 'natural experiment' design to assess associations
+      between PDMP features and risk of RxORP in a nationally-representative
+      population of privately-insured adults from 2004 to 2014. Administrative
+      health claims data were used to identify inpatient hospital admissions
+      and emergency department visits related to RxORP. Generalized estimating
+      equation Poisson regression models were used to examine associations
+      between specific PDMP features and changes in relative risk (RR) of RxORP
+      over time. RESULTS: In adjusted analyses, states without PDMPs
+      experienced an average annual increase in the rate of RxORP of 9.51% over
+      the study period, while states with operational PDMPs experienced an
+      average annual increase of 3.17%. The increase in RR of RxORP over time
+      in states with operational PDMPs was significantly less than increases in
+      states without PDMPs. States with specific features, including those that
+      monitored more schedules or required more frequent data reporting,
+      experienced stronger protective effects on the RR of RxORP over time.
+      CONCLUSION: This study examined associations between specific PDMP
+      features and RxORP rates in a nationally-representative population of
+      privately-insured adults. Results of this study may be used as empirical
+      evidence to guide PDMP best practices.},
+url = {https://www.sciencedirect.com/science/article/abs/pii/S0376871618300103}
+}
+
+
+%29064357
+
+@article{auld2017retention,
+  title={Retention Throughout the HIV Care and Treatment Cascade: From Diagnosis to Antiretroviral Treatment of Adults and Children Living with HIV—Haiti, 1985--2015},
+  author={Auld, Andrew F and Pelletier, Valerie and Robin, Ermane G and Shiraishi, Ray W and Dee, Jacob and Antoine, Mayer and Desir, Yrvel and Desforges, Gracia and Delcher, Chris and Duval, Nirva and others},
+  journal={The American journal of tropical medicine and hygiene},
+  volume={97},
+  number={4\_Suppl},
+  pages={57--70},
+  year={2017},
+  publisher={ASTMH},
+abstract={Monitoring retention of people living with HIV (PLHIV) in the HIV care
+      and treatment cascade is essential to guide program strategy and evaluate
+      progress toward globally-endorsed 90-90-90 targets (i.e., 90% of PLHIV
+      diagnosed, 81% on sustained antiretroviral therapy (ART), and 73% virally
+      suppressed). We describe national retention from diagnosis throughout the
+      cascade for patients receiving HIV services in Haiti during 1985-2015,
+      with a focus on those receiving HIV services during 2008-2015. Among the
+      266,256 newly diagnosed PLHIV during 1985-2015, 49% were linked-to-care,
+      30% started ART, and 18% were retained on ART by the time of database
+      closure. Similarly, among the 192,187 newly diagnosed HIV-positive
+      patients during 2008-2015, 50% were linked to care, 31% started ART, and
+      19% were retained on ART by the time of database closure. Most patients
+      (90-92%) at all cascade steps were adults (>/= 15 years old), among whom
+      the majority (60-61%) were female. During 2008-2015, outcomes varied
+      significantly across 42 administrative districts (arrondissements) of
+      residence; cumulative linkage-to-care ranged from 23% to 69%, cumulative
+      ART initiation among care enrollees ranged from 2% to 80%, and cumulative
+      ART retention among ART enrollees ranged from 30% to 88%. Compared with
+      adults, children had lower cumulative incidence of ART initiation among
+      care enrollees (64% versus 47%) and lower cumulative retention among ART
+      enrollees (64% versus 50%). Cumulative linkage-to-care was low and should
+      be prioritized for improvement. Variations in outcomes by arrondissement
+      and between adults and children require further investigation and
+      programmatic response.},
+url = {https://www.ajtmh.org/content/journals/10.4269/ajtmh.17-0116}
+
+}
+
