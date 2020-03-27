@@ -1,0 +1,13 @@
+% 32185372 
+@Article{pmid32185372,
+   Author="Harris, D. R.  and Delcher, C. ",
+   Title="{bench4gis: {B}enchmarking {P}rivacy-aware {G}eocoding with {O}pen {B}ig {D}ata}",
+   Journal="Proc IEEE Int Conf Big Data",
+   Year="2019",
+   Volume="2019",
+   Pages="4067--4070",
+   Month="Dec",
+   Abstract={Geocoding, the process of translating addresses to geographic coordinates, is a relatively straight-forward and well-studied process, but limitations due to privacy concerns may restrict usage of geographic data. The impact of these limitations are further compounded by the scale of the data, and in turn, also limits viable geocoding strategies. For example, healthcare data is protected by patient privacy laws in addition to possible institutional regulations that restrict external transmission and sharing of data. This results in the implementation of "in-house" geocoding solutions where data is processed behind an organization's firewall; quality assurance for these implementations is problematic because sensitive data cannot be used to externally validate results. In this paper, we present our software framework called bench4gis which benchmarks privacy-aware geocoding solutions by leveraging open big data as surrogate data for quality assurance; the scale of open big data sets for address data can ensure that results are geographically meaningful for the locale of the implementing institution.},
+url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7076902} 
+DOI = {10.1109/bigdata47090.2019.9006234}
+}
