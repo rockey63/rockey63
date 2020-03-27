@@ -112,3 +112,122 @@ DOI = {10.1097/QAD.0000000000002466}
    Abstract={High-risk combinations of controlled medications, such as those involving opioid analgesics, are under increased scrutiny because of their contribution to the opioid epidemic in the United States. Responsible prescribing guidelines indicate that the triple drug combination--opioids, benzodiazepines and skeletal muscle relaxants, especially carisoprodol--should not be concurrently prescribed.\\ This pharmacoepidemiologic study was designed to primarily examine the characteristics of patients receiving this triple combination compared to the group receiving only opioids and benzodiazepines.\\ Results show that, while the number of exposed patients has declined since 2012, approximately 17,000 Floridians were prescribed this combination in 2017 alone. Demographically, recipients of these prescriptions were younger, more likely to be female, and geographically-localized. Furthermore, these patients were more frequently associated with a prescriber in the top 1% of opioid and/or benzodiazepine prescribing, have more multiple provider episodes ("doctor shopping"), and receive higher mean daily opioid dosages.\\ These findings raise important questions as to how frequently prescribers are checking prescription drug monitoring programs, following US Centers for Disease Control and Prevention opioid prescribing guidelines, and/or handling the clinical challenges associated with pharmaceutical management of patients with complex, painful health conditions.},
 DOI = {10.1016/j.drugalcdep.2019.107693}
 }
+
+% 31615364 
+@Article{pmid31615364,
+   Author="Conner, K. L.  and Meadows, A. L.  and Delcher, C.  and Talbert, J. C. ",
+   Title="{{N}eonatal {A}bstinence {S}yndrome and {C}hildhood {M}ental {H}ealth {C}onditions, 2009-2015: {C}ommercial {V}ersus {M}edicaid {P}opulations}",
+   Journal="Psychiatr Serv",
+   Year="2020",
+   Volume="71",
+   Number="2",
+   Pages="184--187",
+   Month="Feb",
+   Abstract={This study aimed to examine mental health conditions of children diagnosed with neonatal abstinence syndrome (NAS) in a commercially insured population and compare them with a multistate Medicaid-insured population identified in prior research.\\ Data from the IBM MarketScan Commercial Database from January 1, 2009, to September 30, 2015, were used to identify mental health conditions among children ages 1-5 both with and without NAS. Frequency analyses were conducted to ascertain intrapopulation differences and differences between the commercially insured and Medicaid populations.\\ The NAS rate in the Medicaid population was 28.7 times higher than in the commercially insured population. Although the sample of children with NAS was small, and the results must be interpreted with caution, elevated rates of childhood mental health conditions observed in the commercially insured population were comparable to the Medicaid population.\\ This analysis emphasizes the difference in rates of NAS between commercially insured and Medicaid populations.},
+DOI={10.1176/appi.ps.201900180}
+}
+
+% 31479525 
+@Article{pmid31479525,
+   Author="Mu?oz, M. A.  and Delcher, C.  and Dal Pan, G. J.  and Kortepeter, C. M.  and Wu, E.  and Wei, Y. J.  and Xiao, H.  and Winterstein, A. G. ",
+   Title="{{I}mpact of a {N}ew {C}onsumer {F}orm on the {Q}uantity and {Q}uality of {A}dverse {E}vent {R}eports {S}ubmitted to the {U}nited {S}tates {F}ood and {D}rug {A}dministration}",
+   Journal="Pharmacotherapy",
+   Year="2019",
+   Volume="39",
+   Number="11",
+   Pages="1042--1052",
+   Month="11",
+   Abstract={Consumers and healthcare professionals can voluntarily report adverse experiences associated with drug products to the United States Food and Drug Administration's (FDA) Adverse Event Reporting System (FAERS). Consumers and healthcare professionals used the same general voluntary reporting form (GVR) until mid-2013, when a consumer voluntary reporting form (ConVR), written in plain language, was implemented. The objective of this study was to examine the effect of the ConVR on the quality and quantity of consumer reports submitted directly to FAERS.\\ Descriptive; quasi-experimental.\\ FAERS database.\\ We identified all consumer and healthcare professional reports received directly by the FDA from January 1, 2011, through December 31, 2015. Report quality was defined by the completeness of 15 individual data fields and a structured tool measuring clinical documentation. An interrupted time series design was used to evaluate the impact on the quantity of consumer reports. Consumer reports submitted on the ConVR generally included more patient, product, and event data in the structured data fields than those submitted on the GVR. Fields with the greatest absolute percentage difference after the ConVR was introduced included race/ethnicity (+77.2%), product start and stop dates (+43% and +40.3%, respectively), dechallenge and rechallenge information (+19.1% and +29.4%, respectively), and medical history (+27%). Our structured assessment also classified more reports received on the ConVR as well documented relative to the GVR consumer reports (64.9% vs 37.8%, p<0.01). The time series model demonstrated an immediate increase of 499 consumer reports in the month following the ConVR's implementation (p<0.01).\\ Our findings suggest that the ConVR has contributed positively to both the quality and quantity of consumer reports in FAERS.},
+DOI={10.1002/phar.2325}
+}
+
+% 31352307 
+@Article{pmid31352307,
+   Author="Li, Y.  and Delcher, C.  and Brown, J. D.  and Wei, Y. J.  and Reisfield, G. M.  and Winterstein, A. G. ",
+   Title="{{I}mpact of {S}chedule {I}{V} controlled substance classification on carisoprodol utilization in the {U}nited {S}tates: {A}n interrupted time series analysis}",
+   Journal="Drug Alcohol Depend",
+   Year="2019",
+   Volume="202",
+   Pages="172--177",
+   Month="09",
+   Abstract={In January 2012, the Drug Enforcement Agency (DEA) classified carisoprodol as a Schedule IV controlled substance at the US federal level. We aimed to examine the effect of this policy on the use of carisoprodol in a commercially-insured population.\\ This interrupted time series study included individuals with musculoskeletal disorders in the IBM MarketScan Commercial Database between December 2009 and February 2014. We used comparative segmented linear regression to assess changes in the proportions of patients who filled/newly filled carisoprodol each month.\\ A total of 13.3 million patients were included. 29 states with no scheduling prior to the DEA classification had lower baseline prevalence of carisoprodol use compared to 17 states that had scheduled carisoprodol individually before 2010 (11.0 vs. 21.1 patients with fills per 1000 patients). The federal scheduling was associated with an immediate decline (-1.12 per 1000 patients, p < 0.01) and decreasing trend in prevalence (-0.07 per 1000 patients per month, p = 0.02). This effect was not modified by existing state-level scheduling status. During the first, second, third, and fourth 6-month periods after federal scheduling, the relative difference between observed and predicted prevalence was 7.8%, 10.5%, 13.4%, and 19.8%. Similar patterns were observed for carisoprodol initiation. Overall, declining use was more pronounced among younger age groups and patients with injury.\\ Schedule IV controlled substance classification at the federal level was associated with a moderate reduction in the dispensing of carisoprodol regardless of whether scheduling was already present at the state level.},
+DOI={10.1016/j.drugalcdep.2019.05.025}
+}
+
+% 31299965 
+@Article{pmid31299965,
+   Author="Yang, C.  and Delcher, C.  and Shenkman, E.  and Ranka, S. ",
+   Title="{{E}xpenditure variations analysis using residuals for identifying high health care utilizers in a state {M}edicaid program}",
+   Journal="BMC Med Inform Decis Mak",
+   Year="2019",
+   Volume="19",
+   Number="1",
+   Pages="131",
+   Month="07",
+   Abstract={High utilizers receive great attention in health care research because they have a largely disproportionate spending. Existing analyses usually identify high utilizers with an empirical threshold on the number of health care visits or associated expenditures. However, such count-and-cost based criteria might not be best for identifying impactable high utilizers.\\ We propose an approach to identify impactable high utilizers using residuals from regression-based health care utilization risk adjustment models to analyze the variations in health care expenditures. We develop linear and tree-based models to best adjust per-member per-month health care cost by clinical and socioeconomic risk factors using a large administrative claims dataset from a state public insurance program.\\ The risk adjustment models identify a group of patients with high residuals whose demographics and categorization of comorbidities are similar to other patients but who have a significant amount of unexplained health care utilization. Deeper analysis of the essential hypertension cohort and chronic kidney disease cohort shows these variations in expenditures could be within individual ICD-9-CM codes and from different mixtures of ICD-9-CM codes. Additionally, correlation analysis with 3Mâ„¢ Potentially Preventable Events (PPE) software shows that a portion of this utilization may be preventable. In addition, the high utilizers persist from year to year.\\ After risk adjustment, patients with higher than expected expenditures (high residuals) are associated with more potentially preventable events. These residuals are temporally consistent and hence may be useful in identifying and intervening impactable high utilizers.},
+DOI={10.1186/s12911-019-0870-4}
+
+% 31259141 
+@Article{pmid31259141,
+   Author="Slavova, S.  and Delcher, C.  and Buchanich, J. M.  and Bunn, T. L.  and Goldberger, B. A.  and Costich, J. F. ",
+   Title="{{M}ethodological {C}omplexities in {Q}uantifying {R}ates of {F}atal {O}pioid-{R}elated {O}verdose}",
+   Journal="Curr Epidemiol Rep",
+   Year="2019",
+   Volume="6",
+   Number="2",
+   Pages="263--274",
+   Abstract={Effective responses to the US opioid overdose epidemic rely on accurate and timely drug overdose mortality data, which are generated from medicolegal death investigations (MDI) and certifications of overdose deaths. We identify nuances of MDI and certification of overdose deaths that can influence drug overdose mortality surveillance, as well as recent research, recommendations, and epidemiological tools for improved identification and quantification of specific drug involvement in overdose mortality.\\ Death certificates are the foundation of drug overdose mortality surveillance. Accordingly, counts and rates of specific drug involvement in overdose deaths are only as accurate as the drug listed on death certificates. Variation in systematic approaches or jurisdictional office policy in drug overdose death certification can lead to bias in mortality rate calculations. Recent research has examined statistical adjustments to improve underreported opioid involvement in overdose deaths. New cause-of-death natural language text analysis tools improve quantification of specific opioid overdose mortality rates. Enhanced opioid overdose surveillance, which combines death certificate data with other MDI-generated data, has the potential to improve understanding of factors and circumstances of opioid overdose mortality.\\ The opioid overdose crisis has brought into focus some of the limitations of US MDI systems for drug overdose surveillance and has given rise to a sense of urgency regarding the pressing need for improvements in our MDI data for public health action and research. Epidemiologists can stimulate positive changes in MDI data quality by demonstrating the critical role of data in guiding public health and safety decisions and addressing the challenges of accurate and timely overdose mortality measures with stakeholders. Education, training, and resources specific to drug overdose surveillance and analysis will be essential as the nation's overdose crisis continues to evolve.},
+DOI={10.1007/s40471-019-00201-9}
+}
+
+
+% 30986838 
+@Article{pmid30986838,
+   Author="Delcher, C.  and Slavova, S.  and Wang, Y.  and Henry, S. G. ",
+   Title="{{O}pioid {P}rescribing {B}efore and {A}fter the {C}enters for {D}isease {C}ontrol and {P}revention's 2016 {O}pioid {G}uideline}",
+   Journal="Ann. Intern. Med.",
+   Year="2019",
+   Volume="170",
+   Number="8",
+   Pages="581--582",
+   Month="04",
+DOI={10.7326/L19-0053}
+}
+
+% 30935769 
+@Article{pmid30935769,
+   Author="Goodin, A. J.  and Brown, J. D.  and Delcher, C.  and Freeman, P. R.  and Talbert, J.  and Henry, S. G.  and Roussos-Ross, D. ",
+   Title="{{P}erception of prescription drug monitoring programs as a prevention tool in primary medical care}",
+   Journal="Res Social Adm Pharm",
+   Year="2019",
+   Month="Mar",
+   Abstract={Prescription drug monitoring programs (PDMPs) are primary prevention tools to reduce substance use disorders (SUD) and sequelae. Evidence regarding perceptions of PDMPs from different primary care providers, which may impact PDMP utilization for women, is unavailable.\\ To examine perceived PDMP effectiveness among obstetrician-gynecologists (OB/GYNs) compared to primary care physicians (PCPs).\\ Independent surveys of PDMP users in Florida, Kentucky, and California were evaluated based on a Likert-type item to assess perception of PDMP effectiveness in reducing prescription drug abuse and diversion. Response distributions of OB/GYNs versus PCPs were compared using chi-square tests.\\ In Florida, there were 41 OB/GYN and 511 PCP respondents; Kentucky, 46 OB/GYNs and 265 PCPs; and California, 41 OB/GYNs and 162 PCPs. In each state OB/GYNs viewed PDMPs as less effective, positive, or useful compared to PCPs (p â‰¤ 0.01, all states): Florida: 64.1% OB/GYN vs. 83.7% PCP "agree positive impact"; Kentucky: 45.0% OB/GYN vs. 68.5% PCP "effective". California: 73.2% OB/GYN vs. 86.4% PCP "useful".\\ These results suggest OB/GYNs view their state's PDMP as less effective than do PCPs, which may present barriers to PDMP utilization and decrease opportunities for SUD interventions. Engagement of all healthcare team members is needed to inform future strategies and policies to increase PDMP effectiveness.},
+DOI={10.1016/j.sapharm.2019.03.012}
+}
+
+% 30685568 
+@Article{pmid30685568,
+   Author="Quast, T.  and Bright, M. A.  and Delcher, C. ",
+   Title="{{T}he relationship between foster care entries and high-dose opioid prescribing in {C}alifornia}",
+   Journal="Addict Behav",
+   Year="2019",
+   Volume="93",
+   Pages="52--58",
+   Month="06",
+   Abstract={An important effect of the current opioid epidemic is on children whose parents are unable to provide appropriate care. We employ quarterly, county-level data for California for 2009-2016 to study the relationship between foster care entries and opioid misuse by their parents. Our linear regression analysis includes both county and time fixed effects and controls related to child removal risk. We improve on the limited existing research in the area by analyzing higher frequency data, examining a proximal measure of opioid abuse, and allowing for differential associations by urbanicity. We found a positive association between the rate of child removals and the rate of residents who were cumulatively prescribed a high dose of opioids (>90 morphine milligram equivalents (MMEs) per day) during the quarter. A one standard deviation in this rate is associated with a roughly 9% increase in the overall removal rate. We further found that the association between removals and high MMEs is especially pronounced in rural areas and largely not existent in urban areas. Our results provide a more precise estimate of the relationship between the potential for opioid misuse and child welfare.},
+DOI={10.1016/j.addbeh.2019.01.015}
+}
+
+% 30458798 
+@Article{pmid30458798,
+   Author="Yang, C.  and Delcher, C.  and Shenkman, E.  and Ranka, S. ",
+   Title="{{M}achine learning approaches for predicting high cost high need patient expenditures in health care}",
+   Journal="Biomed Eng Online",
+   Year="2018",
+   Volume="17",
+   Number="Suppl 1",
+   Pages="131",
+   Month="Nov",
+   Abstract={This paper studies the temporal consistency of health care expenditures in a large state Medicaid program. Predictive machine learning models were used to forecast the expenditures, especially for the high-cost, high-need (HCHN) patients.\\ We systematically tests temporal correlation of patient-level health care expenditures in both the short and long terms. The results suggest that medical expenditures are significantly correlated over multiple periods. Our work demonstrates a prevalent and strong temporal correlation and shows promise for predicting future health care expenditures using machine learning. Temporal correlation is stronger in HCHN patients and their expenditures can be better predicted. Including more past periods is beneficial for better predictive performance.\\ This study shows that there is significant temporal correlation in health care expenditures. Machine learning models can help to accurately forecast the expenditures. These results could advance the field toward precise preventive care to lower overall health care costs and deliver care more efficiently.},
+DOI={10.1186/s12938-018-0568-3}
+}
