@@ -101,6 +101,21 @@ url = {https://dx.doi.org/10.1007/s40264-019-00897-0}
 }
 
 % 31751873 
+@article{wang2019overlapping,
+  title={Overlapping prescriptions of opioids, benzodiazepines, and carisoprodol:“Holy Trinity” prescribing in the state of Florida},
+  author={Wang, Yanning and Delcher, Chris and Li, Yan and Goldberger, Bruce A and Reisfield, Gary M},
+  journal={Drug and alcohol dependence},
+  volume={205},
+  pages={107693},
+  year={2019},
+publisher={Elsevier},
+
+Abstract={High-risk combinations of controlled medications, such as those involving opioid analgesics, are under increased scrutiny because of their contribution to the opioid epidemic in the United States. Responsible prescribing guidelines indicate that the triple drug combination--opioids, benzodiazepines and skeletal muscle relaxants, especially carisoprodol--should not be concurrently prescribed.\\ This pharmacoepidemiologic study was designed to primarily examine the characteristics of patients receiving this triple combination compared to the group receiving only opioids and benzodiazepines.\\ Results show that, while the number of exposed patients has declined since 2012, approximately 17,000 Floridians were prescribed this combination in 2017 alone. Demographically, recipients of these prescriptions were younger, more likely to be female, and geographically-localized. Furthermore, these patients were more frequently associated with a prescriber in the top 1% of opioid and/or benzodiazepine prescribing, have more multiple provider episodes ("doctor shopping"), and receive higher mean daily opioid dosages.\\ These findings raise important questions as to how frequently prescribers are checking prescription drug monitoring programs, following US Centers for Disease Control and Prevention opioid prescribing guidelines, and/or handling the clinical challenges associated with pharmaceutical management of patients with complex, painful health conditions.},
+   url = {https://dx.doi.org/10.1016/j.drugalcdep.2019.107693}
+
+}
+
+
 @Article{pmid31751873,
    Author="Wang, Y.  and Delcher, C.  and Li, Y.  and Goldberger, B. A.  and Reisfield, G. M. ",
    Title="{{O}verlapping prescriptions of opioids, benzodiazepines, and carisoprodol: "{H}oly {T}rinity" prescribing in the state of {F}lorida}",
@@ -299,15 +314,15 @@ url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5803817}
 }
 
 % 29204728 
-@Article{pmid29204728,
-   Author="Delcher, C.  and Yang, C.  and Ranka, S.  and Tyndall, J. A.  and Vogel, B.  and Shenkman, E. ",
-   Title="{{V}ariation in outpatient emergency department utilization in {T}exas {M}edicaid: a state-level framework for finding "superutilizers"}",
-   Journal="Int J Emerg Med",
-   Year="2017",
-   Volume="10",
-   Number="1",
-   Pages="31",
-   Month="Dec",
+@article{delcher2017variation,
+  title={Variation in outpatient emergency department utilization in Texas Medicaid: a state-level framework for finding “superutilizers”},
+  author={Delcher, Chris and Yang, Chengliang and Ranka, Sanjay and Tyndall, Joseph Adrian and Vogel, Bruce and Shenkman, Elizabeth},
+  journal={International journal of emergency medicine},
+  volume={10},
+  number={1},
+  pages={31},
+  year={2017},
+  publisher={Springer},
    Abstract={Very frequent outpatient emergency department (ED) use-so called "superutilization"-at the state level is not well-studied. To address this gap, we examined frequent ED utilization in the largest state Medicaid population to date.\\ Using Texas Medicaid (the third largest in the USA) claims data, we examined the variability in expenditures, sociodemographics, comorbidities, and persistence across seven levels of ED utilization/year (i.e., 1, 2, 3-4, 5-6, 7-9, 10-14, and â‰¥ 15 visits). We classified visits into emergent and non-emergent categories using the most recent New York University algorithm.\\ Thirty-one percent (n = 346,651) of Texas Medicaid adult enrollees visited the ED at least once in 2014. Enrollees with â‰¥ 3 ED visits accounted for 8.5% of all adult patients, 60.4% of the total ED visits, and 62.1% of the total ED expenditures. Extremely frequent ED users (â‰¥ 10 ED visits) represented < 1% of all users but accounted for 15.5% of all ED visits and 17.4% of the total ED costs. The proportions of ED visits classified as non-emergent or emergent, but primary care treatable varied little as ED visits increased. Overall, approximately 13% of ED visits were considered not preventable or avoidable.\\ The Texas Medicaid population has a substantial burden of chronic disease with only modest increases in substance use and mental health diagnoses as annual visits increase. Understanding the characteristics that lead to frequent ED use is vital to developing strategies and Medicaid policy to reduce high utilization.},
 url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5714939}
 }
