@@ -1,0 +1,307 @@
+@article{Li2021,
+  doi = {10.1093/pm/pnab088},
+  url = {https://doi.org/10.1093/pm/pnab088},
+  year = {2021},
+  month = mar,
+  publisher = {Oxford University Press ({OUP})},
+  author = {Yan Li and Chris Delcher and Gary M Reisfield and Yu-Jung Wei and Joshua D Brown and Almut G Winterstein},
+  title = {Utilization Patterns of Skeletal Muscle Relaxants Among Commercially Insured Adults in the United States from 2006 to 2018},
+  journal = {Pain Medicine}
+}
+
+@article{Pauly2020,
+  doi = {10.18553/jmcp.2020.26.3.246},
+  url = {https://doi.org/10.18553/jmcp.2020.26.3.246},
+  year = {2020},
+  month = mar,
+  publisher = {Academy of Managed Care Pharmacy},
+  volume = {26},
+  number = {3},
+  pages = {246--252},
+  author = {Nathan J. Pauly and Chris Delcher and Svetla Slavova and Eric Lindahl and Jeff Talbert and Patricia R. Freeman},
+  title = {Trends in Gabapentin Prescribing in a Commercially Insured U.S. Adult Population,  2009-2016},
+  journal = {Journal of Managed Care {\&} Specialty Pharmacy}
+}
+
+@article{Conner2020,
+  doi = {10.1176/appi.ps.201900180},
+  url = {https://doi.org/10.1176/appi.ps.201900180},
+  year = {2020},
+  month = feb,
+  publisher = {American Psychiatric Association Publishing},
+  volume = {71},
+  number = {2},
+  pages = {184--187},
+  author = {Kailyn L. Conner and Amy L. Meadows and Chris Delcher and Jeffery C. Talbert},
+  title = {Neonatal Abstinence Syndrome and Childhood Mental Health Conditions,  2009{\textendash}2015: Commercial Versus Medicaid Populations},
+  journal = {Psychiatric Services},
+  abstract = {This study aimed to examine mental health conditions of children diagnosed with neonatal abstinence syndrome (NAS) in a commercially insured population and compare them with a multistate Medicaid-insured population identified in prior research.}
+}
+
+@article{Sohn2015,
+  doi = {10.1002/pds.3768},
+  url = {https://doi.org/10.1002/pds.3768},
+  year = {2015},
+  month = mar,
+  publisher = {Wiley},
+  volume = {24},
+  number = {6},
+  pages = {583--591},
+  author = {Minji Sohn and Jeffery Talbert and Karen Blumenschein and Daniela Claudia Moga},
+  title = {Atypical antipsychotic initiation and the risk of type {II} diabetes in children and adolescents},
+  journal = {Pharmacoepidemiology and Drug Safety}
+}
+
+@article{Pauly2018,
+  doi = {10.1016/j.drugalcdep.2017.12.002},
+  url = {https://doi.org/10.1016/j.drugalcdep.2017.12.002},
+  year = {2018},
+  month = mar,
+  publisher = {Elsevier {BV}},
+  volume = {184},
+  pages = {26--32},
+  author = {N.J. Pauly and S. Slavova and C. Delcher and P.R. Freeman and J. Talbert},
+  title = {Features of prescription drug monitoring programs associated with reduced rates of prescription opioid-related poisonings},
+  journal = {Drug and Alcohol Dependence}
+}
+
+@article{Li2020,
+  doi = {10.1002/cpt.1807},
+  url = {https://doi.org/10.1002/cpt.1807},
+  year = {2020},
+  month = mar,
+  publisher = {Wiley},
+  volume = {108},
+  number = {1},
+  pages = {81--89},
+  author = {Yan Li and Chris Delcher and Yu-Jung Jenny Wei and Gary M. Reisfield and Joshua D. Brown and Patrick Tighe and Almut G. Winterstein},
+  title = {Risk of Opioid Overdose Associated With Concomitant Use of Opioids and Skeletal Muscle Relaxants: A Population-Based Cohort Study},
+  journal = {Clinical Pharmacology {\&} Therapeutics}
+}
+
+@article{Li2019,
+  doi = {10.1016/j.drugalcdep.2019.05.025},
+  url = {https://doi.org/10.1016/j.drugalcdep.2019.05.025},
+  year = {2019},
+  month = sep,
+  publisher = {Elsevier {BV}},
+  volume = {202},
+  pages = {172--177},
+  author = {Yan Li and Chris Delcher and Joshua D. Brown and Yu-Jung Wei and Gary M. Reisfield and Almut G. Winterstein},
+  title = {Impact of Schedule {IV} controlled substance classification on carisoprodol utilization in the United States: An interrupted time series analysis},
+  journal = {Drug and Alcohol Dependence}
+}
+
+@Article{pmid30815171,
+   Author="Hankosky, E. R.  and Bush, H. M.  and Dwoskin, L. P.  and Harris, D. R.  and Henderson, D. W.  and Zhang, G. Q.  and Freeman, P. R.  and Talbert, J. C. ",
+   PMID = {30815171},
+   url = {https://pubmed.ncbi.nlm.nih.gov/30815171/},
+   Title="{{R}etrospective analysis of health claims to evaluate pharmacotherapies with potential for repurposing: {A}ssociation of bupropion and stimulant use disorder remission}",
+   Journal="AMIA Annu Symp Proc",
+   Year="2018",
+   Volume="2018",
+   Pages="1292--1299"
+}
+
+@article{ElRefai2017,
+  doi = {10.1016/j.thromres.2017.08.001},
+  url = {https://doi.org/10.1016/j.thromres.2017.08.001},
+  year = {2017},
+  month = oct,
+  publisher = {Elsevier {BV}},
+  volume = {158},
+  pages = {49--58},
+  author = {Sherif M. El-Refai and Esther P. Black and Val R. Adams and Jeffery C. Talbert and D. Brown},
+  title = {Statin use and venous thromboembolism in cancer: A large,  active comparator,  propensity score matched cohort study},
+  journal = {Thrombosis Research}
+}
+
+@article{Brown2016,
+  doi = {10.18553/jmcp.2016.22.11.1319},
+  url = {https://doi.org/10.18553/jmcp.2016.22.11.1319},
+  year = {2016},
+  month = nov,
+  publisher = {Academy of Managed Care Pharmacy},
+  volume = {22},
+  number = {11},
+  pages = {1319--1329},
+  author = {Joshua D. Brown and Anand R. Shewale and Jeffery C. Talbert},
+  title = {Adherence to Rivaroxaban,  Dabigatran,  and Apixaban for Stroke Prevention in Incident,  Treatment-Naïve Nonvalvular Atrial Fibrillation},
+  journal = {Journal of Managed Care {\&} Specialty Pharmacy}
+}
+
+@article{Brown2017,
+  doi = {10.1161/jaha.117.006708},
+  url = {https://doi.org/10.1161/jaha.117.006708},
+  year = {2017},
+  month = sep,
+  publisher = {Ovid Technologies (Wolters Kluwer Health)},
+  volume = {6},
+  number = {9},
+  author = {Joshua D. Brown and Driss Raissi and Qiong Han and Val R. Adams and Jeffery C. Talbert},
+  title = {Vena Cava Filter Retrieval Rates and Factors Associated With Retrieval in a Large {US} Cohort},
+  journal = {Journal of the American Heart Association}
+}
+
+@article{ElRefai2017,
+  doi = {10.1200/cci.17.00010},
+  url = {https://doi.org/10.1200/cci.17.00010},
+  year = {2017},
+  month = nov,
+  publisher = {American Society of Clinical Oncology ({ASCO})},
+  number = {1},
+  pages = {1--12},
+  author = {Sherif M. El-Refai and Joshua D. Brown and Susanne M. Arnold and Esther P. Black and Markos Leggas and Jeffery C. Talbert},
+  title = {Epidemiologic Analysis Along the Mevalonate Pathway Reveals Improved Cancer Survival in Patients Who Receive Statins Alone and in Combination With Bisphosphonates},
+  journal = {{JCO} Clinical Cancer Informatics}
+}
+
+@article{ElRefai2017,
+  doi = {10.1177/1176935117712520},
+  url = {https://doi.org/10.1177/1176935117712520},
+  year = {2017},
+  month = jan,
+  publisher = {{SAGE} Publications},
+  volume = {16},
+  pages = {117693511771252},
+  author = {Sherif M El-Refai and Joshua D Brown and Esther P Black and Jeffery C Talbert},
+  title = {Immune Checkpoint Inhibition and the Prevalence of Autoimmune Disorders Among Patients With Lung and Renal Cancer},
+  journal = {Cancer Informatics}
+}
+
+@article{Pauly2017,
+  doi = {10.1097/mib.0000000000001087},
+  url = {https://doi.org/10.1097/mib.0000000000001087},
+  year = {2017},
+  month = jun,
+  publisher = {Oxford University Press ({OUP})},
+  volume = {23},
+  number = {6},
+  pages = {1004--1010},
+  author = {Nathan J. Pauly and Lamprinos Michailidis and Michael G. Kindred and Deborah Flomenhoft and Michelle R. Lofwall and Sharon L. Walsh and Jeffery C. Talbert and Terrence A. Barrett},
+  title = {Predictors of Chronic Opioid Use in Newly Diagnosed Crohn's Disease},
+  journal = {Inflammatory Bowel Diseases}
+}
+
+@article{Brown2016,
+  doi = {10.1007/s40266-016-0369-y},
+  url = {https://doi.org/10.1007/s40266-016-0369-y},
+  year = {2016},
+  month = may,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {33},
+  number = {6},
+  pages = {427--436},
+  author = {Joshua D. Brown and Anand R. Shewale and Parinita Dherange and Jeffery C. Talbert},
+  title = {A Comparison of Oral Anticoagulant Use for Atrial Fibrillation in the Pre- and Post-{DOAC} Eras},
+  journal = {Drugs {\&} Aging}
+}
+
+@article{Brown2016,
+  doi = {10.3390/healthcare4040093},
+  url = {https://doi.org/10.3390/healthcare4040093},
+  year = {2016},
+  month = dec,
+  publisher = {{MDPI} {AG}},
+  volume = {4},
+  number = {4},
+  pages = {93},
+  author = {Joshua Brown and Val Adams and Daniela Moga},
+  title = {Impact of Time-Varying Treatment Exposures on the Risk of Venous Thromboembolism in Multiple Myeloma},
+  journal = {Healthcare}
+}
+
+@article{Sohn2015,
+  doi = {10.1002/pds.3768},
+  url = {https://doi.org/10.1002/pds.3768},
+  year = {2015},
+  month = mar,
+  publisher = {Wiley},
+  volume = {24},
+  number = {6},
+  pages = {583--591},
+  author = {Minji Sohn and Jeffery Talbert and Karen Blumenschein and Daniela Claudia Moga},
+  title = {Atypical antipsychotic initiation and the risk of type {II} diabetes in children and adolescents},
+  journal = {Pharmacoepidemiology and Drug Safety}
+}
+
+@article{Wen2021,
+  doi = {10.1002/hec.4237},
+  url = {https://doi.org/10.1002/hec.4237},
+  year = {2021},
+  month = feb,
+  publisher = {Wiley},
+  volume = {30},
+  number = {5},
+  pages = {989--1000},
+  author = {Jiebing Wen and Hefei Wen and J. S. Butler and Jeffery C. Talbert},
+  title = {The impact of medical and recreational marijuana laws on opioid prescribing in employer-sponsored health insurance},
+  journal = {Health Economics}
+}
+
+@article{Fouladvand2019,
+  doi = {10.1177/1460458219844075},
+  url = {https://doi.org/10.1177/1460458219844075},
+  year = {2019},
+  month = may,
+  publisher = {{SAGE} Publications},
+  volume = {26},
+  number = {2},
+  pages = {787--802},
+  author = {Sajjad Fouladvand and Emily R Hankosky and Heather Bush and Jin Chen and Linda P Dwoskin and Patricia R Freeman and Darren W Henderson and Kathleen Kantak and Jeffery Talbert and Shiqiang Tao and Guo-Qiang Zhang},
+  title = {Predicting substance use disorder using long-term attention deficit hyperactivity disorder medication records in Truven},
+  journal = {Health Informatics Journal}
+}
+
+@article{Pauly2017,
+  doi = {10.1097/mib.0000000000001087},
+  url = {https://doi.org/10.1097/mib.0000000000001087},
+  year = {2017},
+  month = jun,
+  publisher = {Oxford University Press ({OUP})},
+  volume = {23},
+  number = {6},
+  pages = {1004--1010},
+  author = {Nathan J. Pauly and Lamprinos Michailidis and Michael G. Kindred and Deborah Flomenhoft and Michelle R. Lofwall and Sharon L. Walsh and Jeffery C. Talbert and Terrence A. Barrett},
+  title = {Predictors of Chronic Opioid Use in Newly Diagnosed Crohn's Disease},
+  journal = {Inflammatory Bowel Diseases}
+}
+
+@article{Martinez2018,
+  doi = {10.1007/s40256-018-0301-4},
+  url = {https://doi.org/10.1007/s40256-018-0301-4},
+  year = {2018},
+  month = sep,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {19},
+  number = {1},
+  pages = {65--74},
+  author = {Ashley I. Martinez and Patricia R. Freeman and Daniela C. Moga},
+  title = {Statin Use and Gastrointestinal Hemorrhage: A Large Retrospective Cohort Study},
+  journal = {American Journal of Cardiovascular Drugs}
+}
+
+@inproceedings{Fouladvand2018,
+  doi = {10.1109/ichi-w.2018.00014},
+  url = {https://doi.org/10.1109/ichi-w.2018.00014},
+  year = {2018},
+  month = jun,
+  publisher = {{IEEE}},
+  author = {Sajjad Fouladvand and Emily R. Hankosky and Darren W. Henderson and Heather Bush and Jin Chen and Linda P. Dwoskin and Patricia R. Freeman and Kathleen Kantak and Jeffery Talbert and Shiqiang Tao and Guo-Qiang Zhang},
+  title = {Predicting Substance Use Disorder in {ADHD} Patients using Long-Short Term Memory Model},
+  booktitle = {2018 {IEEE} International Conference on Healthcare Informatics Workshop ({ICHI}-W)}
+}
+
+@article{Salt2016,
+  doi = {10.1097/nor.0000000000000258},
+  url = {https://doi.org/10.1097/nor.0000000000000258},
+  year = {2016},
+  month = jul,
+  publisher = {Ovid Technologies (Wolters Kluwer Health)},
+  volume = {35},
+  number = {4},
+  pages = {214--221},
+  author = {Elizabeth Salt and Yevgeniya Gokun and Anna Rankin Kerr and Jeffery Talbert},
+  title = {A Description and Comparison of Treatments for Low Back Pain in the United States},
+  journal = {Orthopaedic Nursing}
+}
