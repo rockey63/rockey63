@@ -1,0 +1,153 @@
+@article{DBLP:journals/midm/YangDSR19,
+  author    = {Chengliang Yang and
+               Chris Delcher and
+               Elizabeth Shenkman and
+               Sanjay Ranka},
+  title     = {Expenditure variations analysis using residuals for identifying high
+               health care utilizers in a state Medicaid program},
+  journal   = {{BMC} Med. Inf. {\&amp;} Decision Making},
+  volume    = {19},
+  number    = {1},
+  pages     = {131:1--131:15},
+  year      = {2019},
+  url       = {https://doi.org/10.1186/s12911-019-0870-4},
+  doi       = {10.1186/s12911-019-0870-4},
+  timestamp = {Thu, 08 Aug 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/midm/YangDSR19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/bigdataconf/HarrisD19,
+  author    = {Daniel R. Harris and
+               Chris Delcher},
+  title     = {bench4gis: Benchmarking Privacy-aware Geocoding with Open Big Data},
+  booktitle = {2019 {IEEE} International Conference on Big Data (Big Data), Los Angeles,
+               CA, USA, December 9-12, 2019},
+  pages     = {4067--4070},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/BigData47090.2019.9006234},
+  doi       = {10.1109/BigData47090.2019.9006234},
+  timestamp = {Fri, 06 Mar 2020 10:39:27 +0100},
+  biburl    = {https://dblp.org/rec/conf/bigdataconf/HarrisD19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/healthcom/YangDSR18,
+  author    = {Chengliang Yang and
+               Chris Delcher and
+               Elizabeth Shenkman and
+               Sanjay Ranka},
+  title     = {Clustering Inter-Arrival Time of Health Care Encounters for High Utilizers},
+  booktitle = {20th {IEEE} International Conference on e-Health Networking, Applications
+               and Services, Healthcom 2018, Ostrava, Czech Republic, September 17-20,
+               2018},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/HealthCom.2018.8531173},
+  doi       = {10.1109/HealthCom.2018.8531173},
+  timestamp = {Wed, 16 Oct 2019 14:14:55 +0200},
+  biburl    = {https://dblp.org/rec/conf/healthcom/YangDSR18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/biomedsem/HoganHHABDEMVD17,
+  author    = {William R. Hogan and
+               Josh Hanna and
+               Amanda Hicks and
+               Samira Amirova and
+               Baxter Bramblett and
+               Matthew Diller and
+               Rodel Enderez and
+               Timothy Modzelewski and
+               Mirela Vasconcelos and
+               Chris Delcher},
+  title     = {Therapeutic indications and other use-case-driven updates in the drug
+               ontology: anti-malarials, anti-hypertensives, opioid analgesics, and
+               a large term request},
+  journal   = {J. Biomedical Semantics},
+  volume    = {8},
+  number    = {1},
+  pages     = {10:1--10:11},
+  year      = {2017},
+  url       = {https://doi.org/10.1186/s13326-017-0121-5},
+  doi       = {10.1186/s13326-017-0121-5},
+  timestamp = {Fri, 27 Dec 2019 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/biomedsem/HoganHHABDEMVD17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/amia/YangDSR17,
+  author    = {Chengliang Yang and
+               Chris Delcher and
+               Elizabeth Shenkman and
+               Sanjay Ranka},
+  title     = {Identifying High Health Care Utilizers Using Post-Regression Residual
+               Analysis of Health Expenditures from a State Medicaid Program},
+  booktitle = {{AMIA} 2017, American Medical Informatics Association Annual Symposium,
+               Washington, DC, USA, November 4-8, 2017},
+  publisher = {{AMIA}},
+  year      = {2017},
+  url       = {http://knowledge.amia.org/65881-amia-1.3897810/t003-1.3901461/f003-1.3901462/2731801-1.3901493/2730968-1.3901490},
+  timestamp = {Thu, 21 Jun 2018 07:22:34 +0200},
+  biburl    = {https://dblp.org/rec/conf/amia/YangDSR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/iwbbio/YangDSR17,
+  author    = {Chengliang Yang and
+               Chris Delcher and
+               Elizabeth Shenkman and
+               Sanjay Ranka},
+  editor    = {Ignacio Rojas and
+               Francisco M. Ortu{\~{n}}o Guzman},
+  title     = {Machine Learning Approaches for Predicting High Utilizers in Health
+               Care},
+  booktitle = {Bioinformatics and Biomedical Engineering - 5th International Work-Conference,
+               {IWBBIO} 2017, Granada, Spain, April 26-28, 2017, Proceedings, Part
+               {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {10209},
+  pages     = {382--395},
+  year      = {2017},
+  url       = {https://doi.org/10.1007/978-3-319-56154-7\_35},
+  doi       = {10.1007/978-3-319-56154-7\_35},
+  timestamp = {Tue, 14 May 2019 10:00:48 +0200},
+  biburl    = {https://dblp.org/rec/conf/iwbbio/YangDSR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/healthcom/YangDSR16,
+  author    = {Chengliang Yang and
+               Chris Delcher and
+               Elizabeth Shenkman and
+               Sanjay Ranka},
+  title     = {Predicting 30-day all-cause readmissions from hospital inpatient discharge
+               data},
+  booktitle = {18th {IEEE} International Conference on e-Health Networking, Applications
+               and Services, Healthcom 2016, Munich, Germany, September 14-16, 2016},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+  year      = {2016},
+  url       = {https://doi.org/10.1109/HealthCom.2016.7749452},
+  doi       = {10.1109/HealthCom.2016.7749452},
+  timestamp = {Wed, 16 Oct 2019 14:14:55 +0200},
+  biburl    = {https://dblp.org/rec/conf/healthcom/YangDSR16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
