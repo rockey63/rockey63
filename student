@@ -22,3 +22,18 @@
   title = {Trends in Gabapentin Prescribing in a Commercially Insured U.S. Adult Population,  2009-2016},
   journal = {Journal of Managed Care {\&} Specialty Pharmacy}
 }
+
+@article{Conner2020,
+  doi = {10.1176/appi.ps.201900180},
+  url = {https://doi.org/10.1176/appi.ps.201900180},
+  year = {2020},
+  month = feb,
+  publisher = {American Psychiatric Association Publishing},
+  volume = {71},
+  number = {2},
+  pages = {184--187},
+  author = {Kailyn L. Conner and Amy L. Meadows and Chris Delcher and Jeffery C. Talbert},
+  title = {Neonatal Abstinence Syndrome and Childhood Mental Health Conditions,  2009{\textendash}2015: Commercial Versus Medicaid Populations},
+  journal = {Psychiatric Services}
+  abstract = {This study aimed to examine mental health conditions of children diagnosed with neonatal abstinence syndrome (NAS) in a commercially insured population and compare them with a multistate Medicaid-insured population identified in prior research.}
+}
