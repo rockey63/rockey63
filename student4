@@ -94,6 +94,8 @@
 
 @Article{pmid30815171,
    Author="Hankosky, E. R.  and Bush, H. M.  and Dwoskin, L. P.  and Harris, D. R.  and Henderson, D. W.  and Zhang, G. Q.  and Freeman, P. R.  and Talbert, J. C. ",
+   PMID = {30815171}
+   url = {https://pubmed.ncbi.nlm.nih.gov/30815171/},
    Title="{{R}etrospective analysis of health claims to evaluate pharmacotherapies with potential for repurposing: {A}ssociation of bupropion and stimulant use disorder remission}",
    Journal="AMIA Annu Symp Proc",
    Year="2018",
