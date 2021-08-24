@@ -385,15 +385,15 @@
   journal = {}
 }
 
-@article{Brown2017,
-  doi = {10.1161/jaha.117.006708},
-  url = {https://doi.org/10.1161/jaha.117.006708},
+@article{ElRefai2017,
+  doi = {10.1177/1176935117712520},
+  url = {https://doi.org/10.1177/1176935117712520},
   year = {2017},
-  month = sep,
-  publisher = {Ovid Technologies (Wolters Kluwer Health)},
-  volume = {6},
-  number = {9},
-  author = {Joshua D. Brown and Driss Raissi and Qiong Han and Val R. Adams and Jeffery C. Talbert},
-  title = {Vena Cava Filter Retrieval Rates and Factors Associated With Retrieval in a Large {US} Cohort},
-  journal = {Journal of the American Heart Association}
+  month = jan,
+  publisher = {{SAGE} Publications},
+  volume = {16},
+  pages = {117693511771252},
+  author = {Sherif M El-Refai and Joshua D Brown and Esther P Black and Jeffery C Talbert},
+  title = {Immune Checkpoint Inhibition and the Prevalence of Autoimmune Disorders Among Patients With Lung and Renal Cancer},
+  journal = {Cancer Informatics}
 }
