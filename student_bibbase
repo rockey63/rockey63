@@ -305,3 +305,16 @@
   title = {A Description and Comparison of Treatments for Low Back Pain in the United States},
   journal = {Orthopaedic Nursing}
 }
+
+@article{Li2019,
+  doi = {10.1016/j.drugalcdep.2019.05.025},
+  url = {https://doi.org/10.1016/j.drugalcdep.2019.05.025},
+  year = {2019},
+  month = sep,
+  publisher = {Elsevier {BV}},
+  volume = {202},
+  pages = {172--177},
+  author = {Yan Li and Chris Delcher and Joshua D. Brown and Yu-Jung Wei and Gary M. Reisfield and Almut G. Winterstein},
+  title = {Impact of Schedule {IV} controlled substance classification on carisoprodol utilization in the United States: An interrupted time series analysis},
+  journal = {Drug and Alcohol Dependence}
+}
