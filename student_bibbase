@@ -318,3 +318,69 @@
   title = {Impact of Schedule {IV} controlled substance classification on carisoprodol utilization in the United States: An interrupted time series analysis},
   journal = {Drug and Alcohol Dependence}
 }
+
+@article{ElRefai2017,
+  doi = {10.1016/j.thromres.2017.08.001},
+  url = {https://doi.org/10.1016/j.thromres.2017.08.001},
+  year = {2017},
+  month = oct,
+  publisher = {Elsevier {BV}},
+  volume = {158},
+  pages = {49--58},
+  author = {Sherif M. El-Refai and Esther P. Black and Val R. Adams and Jeffery C. Talbert and Joshua D. Brown},
+  title = {Statin use and venous thromboembolism in cancer: A large,  active comparator,  propensity score matched cohort study},
+  journal = {Thrombosis Research}
+}
+
+@article{Brown2017,
+  doi = {10.18553/jmcp.2017.23.9.958},
+  url = {https://doi.org/10.18553/jmcp.2017.23.9.958},
+  year = {2017},
+  month = sep,
+  publisher = {Academy of Managed Care Pharmacy},
+  volume = {23},
+  number = {9},
+  pages = {958--967},
+  author = {Joshua D. Brown and Anand R. Shewale and Jeffery C. Talbert},
+  title = {Adherence to Rivaroxaban,  Dabigatran,  and Apixaban for Stroke Prevention for Newly Diagnosed and Treatment-Naive Atrial Fibrillation Patients: An Update Using 2013-2014 Data},
+  journal = {Journal of Managed Care {\&} Specialty Pharmacy}
+}
+
+@article{ElRefai2017,
+  doi = {10.1200/cci.17.00010},
+  url = {https://doi.org/10.1200/cci.17.00010},
+  year = {2017},
+  month = nov,
+  publisher = {American Society of Clinical Oncology ({ASCO})},
+  number = {1},
+  pages = {1--12},
+  author = {Sherif M. El-Refai and Joshua D. Brown and Susanne M. Arnold and Esther P. Black and Markos Leggas and Jeffery C. Talbert},
+  title = {Epidemiologic Analysis Along the Mevalonate Pathway Reveals Improved Cancer Survival in Patients Who Receive Statins Alone and in Combination With Bisphosphonates},
+  journal = {{JCO} Clinical Cancer Informatics}
+}
+
+@article{Brown2016,
+  doi = {10.1007/s40266-016-0369-y},
+  url = {https://doi.org/10.1007/s40266-016-0369-y},
+  year = {2016},
+  month = may,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {33},
+  number = {6},
+  pages = {427--436},
+  author = {Joshua D. Brown and Anand R. Shewale and Parinita Dherange and Jeffery C. Talbert},
+  title = {A Comparison of Oral Anticoagulant Use for Atrial Fibrillation in the Pre- and Post-{DOAC} Eras},
+  journal = {Drugs {\&} Aging}
+}
+
+@article{Perry2021,
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/apt.16269},
+  year = {2021},
+  month = Jan,
+  publisher = {John Wiley & Sons, Inc. A},
+  volume = {53},
+  pages = {704--711},
+  author = {Christian Rhudy and Courtney L. Perry and Michael Singleton and Jeffery Talbert and Terrence A. Barrett},
+  title = {Chronic opioid use is associated with early biologic discontinuation in inflammatory bowel disease},
+  journal = {}
+}
